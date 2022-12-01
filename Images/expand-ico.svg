@@ -1,0 +1,16 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="56" cy="53" r="40" fill="#ADABEF"/>
+<circle cx="51" cy="50" r="40" fill="#514DFC"/>
+<circle cx="40.5" cy="48.5" r="6.5" stroke="white" stroke-width="2"/>
+<path d="M49 69.5V70H26V69.5C26 63.1487 31.1487 58 37.5 58C43.8513 58 49 63.1487 49 69.5Z" stroke="white" stroke-width="2"/>
+<path d="M54.3478 45.8607L52.2155 46.4038L54.4515 42.9268L54.3478 45.8607Z" stroke="white" stroke-width="2"/>
+<rect x="55" y="23" width="23" height="28" rx="4" stroke="white" stroke-width="2"/>
+<rect x="59" y="26" width="16" height="2" rx="1" fill="white"/>
+<rect x="59" y="30" width="16" height="2" rx="1" fill="white"/>
+<rect x="59" y="34" width="16" height="2" rx="1" fill="white"/>
+<rect x="59" y="46" width="16" height="2" rx="1" fill="white"/>
+<rect x="59" y="38" width="8" height="2" rx="1" fill="white"/>
+<rect x="68" y="38" width="7" height="2" rx="1" fill="white"/>
+<rect x="71" y="42" width="4" height="2" rx="1" fill="white"/>
+<rect x="59" y="42" width="11" height="2" rx="1" fill="white"/>
+</svg>
